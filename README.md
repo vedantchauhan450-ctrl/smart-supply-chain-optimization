@@ -1,1 +1,0 @@
-# smart-supply-chain-optimization
